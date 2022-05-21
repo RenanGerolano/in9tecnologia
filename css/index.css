@@ -1,0 +1,70 @@
+/*
+#########################################################
+##############       Escopo - MAIN - INDEX
+#########################################################
+*/
+.main_body {
+    padding: 1rem;
+}
+.main_block-first {
+    padding: 1rem;
+}
+
+.main_list-first {
+    position: relative;
+    display: inline-block;
+
+    margin: 1rem;
+    padding: 1rem;
+
+    text-align: center;
+
+    max-width: 90%;
+
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+
+
+.main_block-second {
+    padding: 0;
+    margin: 0;
+}
+
+.main_list-second {
+    position: relative;
+    display: inline-block;
+
+    margin: 1rem;
+    padding: .5rem;
+
+    text-align: center;
+
+    min-width: 360px;
+    max-width: 480px;
+
+    min-height: 480px;
+
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+
+.main_list-img {
+    padding-top: 1rem;
+}
+
+.text_main-list {
+    margin: 0;
+    padding-top: 0;
+}
+
+.saber_mais {
+
+    width:100%; 
+
+    bottom: 1rem;
+    left: 0;
+    right: 0;
+
+    position: absolute;
+}
