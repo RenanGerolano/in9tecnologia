@@ -1,6 +1,6 @@
 /*
 #########################################################
-##############       Escopo - MAIN - INDEX
+##############       Escope - MAIN - INDEX
 #########################################################
 */
 .main_body {
@@ -40,7 +40,7 @@
 
     text-align: center;
 
-    min-width: 360px;
+    min-width: 320px;
     max-width: 480px;
 
     min-height: 480px;
@@ -67,4 +67,11 @@
     right: 0;
 
     position: absolute;
+}
+
+/* ################ RESPONSIVE IMAGE ################ */
+
+.faixa_index {
+    width: 100%;
+    height: auto;
 }
