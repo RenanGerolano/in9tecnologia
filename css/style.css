@@ -131,6 +131,7 @@ a.nav-link {
     
     text-align: center;
     position: relative;
+    min-width: 320px;
     min-height: 100%;
     padding-top: 2.5rem;
     padding-bottom: 2.5rem;
